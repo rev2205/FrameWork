@@ -39,4 +39,6 @@ var foodLocationsData = [
   { name: "Glens BakeHouse", lat: 12.912043, lng: 77.648198 },
   { name: "Kahale Filter Kaapi", lat: 12.92448, lng: 77.585103 },
   { name: "Brik Oven - Woodfired Pizzas", lat: 12.913884, lng: 77.644765 },
+
+  
 ];
