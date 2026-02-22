@@ -27,10 +27,110 @@
 
 var galleryData = {
   "2025": {
+    "Random Images That I Like": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/1294983.png",
+        "season": "None",
+        "shotOn": "None"
+      },
+
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/_20220704-215538.jpg",
+        "season": "None",
+        "shotOn": "None"
+      },
+
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20251211_213122.jpg",
+        "season": "Winter",
+        "shotOn": "Samsung S24+"
+      },
+
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20260101_204116.jpg",
+        "season": "Winter",
+        "shotOn": "Samsung S24+"
+      }
+
+      // Add more New Horizon College images here:
+      // { "imageLink": "https://raw.githubusercontent.com/...", "season": "Winter", "shotOn": "Samsung S24+" },
+    ],
+
+    "Nexus Shanthinikethan": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20250515_195511.jpg",
+        "season": "Summer",
+        "shotOn": "Samsung S24+"
+      }
+    ],
+
+    "HSR": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20250817_191833.jpg",
+        "season": "Rainy",
+        "shotOn": "Samsung S24+"
+      }
+    ],
+
+    "Anantapur": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20250827_181448.jpg",
+        "season": "Rainy",
+        "shotOn": "Samsung S24+"
+      },
+
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20251025_070327.jpg",
+        "season": "Rainy",
+        "shotOn": "Samsung S24+"
+      },
+
+    ],
+
+    "Chin Lung": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20251202_195956.jpg",
+        "season": "Winter",
+        "shotOn": "Samsung S24+"
+      },
+
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20251202_222930.jpg",
+        "season": "Winter",
+        "shotOn": "Samsung S24+"
+      }
+    ],
+
+    "Iskon": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20250629_161128.jpg",
+        "season": "Summer",
+        "shotOn": "Samsung S24+"
+      }
+    ],
+
+
+    "New Horizon College Busstop": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20250513_153017.jpg",
+        "season": "Summer",
+        "shotOn": "Samsung S24+"
+      }
+
+      // Add more New Horizon College images here:
+      // { "imageLink": "https://raw.githubusercontent.com/...", "season": "Winter", "shotOn": "Samsung S24+" },
+    ],
+
     "New Horizon College": [
       {
         "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20251015_150301.jpg",
         "season": "Rainy",
+        "shotOn": "Samsung S24+"
+      },
+
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20251217_180347.jpg",
+        "season": "Winter",
         "shotOn": "Samsung S24+"
       }
 
@@ -41,6 +141,16 @@ var galleryData = {
     "Brick Oven Pizza": [
       {
         "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20251217_142825.jpg",
+        "season": "Winter",
+        "shotOn": "Samsung S24+"
+      }
+      // Add more New Horizon College images here:
+      // { "imageLink": "https://raw.githubusercontent.com/...", "season": "Winter", "shotOn": "Samsung S24+" },
+    ],
+
+    "Glen's Bake house": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20251231_172757.jpg",
         "season": "Winter",
         "shotOn": "Samsung S24+"
       }
@@ -60,6 +170,16 @@ var galleryData = {
         "season": "Autumn",
         "shotOn": "Samsung S24+"
       },
+    ],
+
+    "Vidhana Soudha": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20260107_171030.jpg",
+        "season": "Winter",
+        "shotOn": "Samsung S24+"
+      }
+      // Add more New Horizon College images here:
+      // { "imageLink": "https://raw.githubusercontent.com/...", "season": "Winter", "shotOn": "Samsung S24+" },
     ],
 
     "New Horizon College": [
@@ -93,7 +213,9 @@ var galleryData = {
     // "Mysuru": [
     //   { "imageLink": "https://raw.githubusercontent.com/...", "season": "Summer", "shotOn": "Camera" }
     // ]
-  }
+  },
+
+
   
   // Add more years here:
   // "2024": {
