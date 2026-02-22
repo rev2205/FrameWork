@@ -40,7 +40,32 @@ var galleryData = {
     // "Mysuru": [
     //   { "imageLink": "https://raw.githubusercontent.com/...", "season": "Summer", "shotOn": "Camera" }
     // ]
+  },
+
+  "2026": {
+    "Blue Tokai Coffee": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20260211_172532.jpg",
+        "season": "Autumn",
+        "shotOn": "Samsung S24+"
+      },
+    ],
+
+    "Phoenix Market City": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20260202_153905.jpg",
+        "season": "Winter",
+        "shotOn": "Samsung S24+"
+      }
+      // Add more New Horizon College images here:
+      // { "imageLink": "https://raw.githubusercontent.com/...", "season": "Winter", "shotOn": "Samsung S24+" },
+    ]
+    // Add more locations here:
+    // "Mysuru": [
+    //   { "imageLink": "https://raw.githubusercontent.com/...", "season": "Summer", "shotOn": "Camera" }
+    // ]
   }
+  
   // Add more years here:
   // "2024": {
   //   "Location": [{ ... }]
