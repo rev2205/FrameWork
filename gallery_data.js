@@ -33,6 +33,17 @@ var galleryData = {
         "season": "Rainy",
         "shotOn": "Samsung S24+"
       }
+
+      // Add more New Horizon College images here:
+      // { "imageLink": "https://raw.githubusercontent.com/...", "season": "Winter", "shotOn": "Samsung S24+" },
+    ],
+
+    "Brick Oven Pizza": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20251217_142825.jpg",
+        "season": "Winter",
+        "shotOn": "Samsung S24+"
+      }
       // Add more New Horizon College images here:
       // { "imageLink": "https://raw.githubusercontent.com/...", "season": "Winter", "shotOn": "Samsung S24+" },
     ]
@@ -51,10 +62,28 @@ var galleryData = {
       },
     ],
 
+    "New Horizon College": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20260120_103356.jpg",
+        "season": "Winter",
+        "shotOn": "Samsung S24+"
+      }
+      // Add more New Horizon College images here:
+      // { "imageLink": "https://raw.githubusercontent.com/...", "season": "Winter", "shotOn": "Samsung S24+" },
+    ],
+
     "Phoenix Market City": [
       {
         "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20260202_153905.jpg",
         "season": "Winter",
+        "shotOn": "Samsung S24+"
+      }
+    ],
+
+    "Singanapalya Metro": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20260202_151938.jpg",
+        "season": "Autumn",
         "shotOn": "Samsung S24+"
       }
       // Add more New Horizon College images here:
