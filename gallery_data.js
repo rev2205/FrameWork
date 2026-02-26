@@ -34,6 +34,8 @@ var galleryData = {
         "shotOn": "None"
       },
 
+
+
       {
         "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/_20220704-215538.jpg",
         "season": "None",
@@ -170,6 +172,30 @@ var galleryData = {
         "season": "Autumn",
         "shotOn": "Samsung S24+"
       },
+    ],
+
+    "Nandi Hills": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20260220_173805.jpg",
+        "season": "Summer",
+        "shotOn": "Samsung S24+"
+      },
+             
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20260220_171822.jpg",
+        "season": "Samsung S24+",
+        "shotOn": "Summer"
+      },
+            
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20260220_175714.jpg",
+        "season": "Samsung S24+",
+        "shotOn": "Summer"
+      },
+
+
+
+
     ],
 
     "Vidhana Soudha": [
