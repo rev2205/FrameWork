@@ -234,6 +234,16 @@ var galleryData = {
       }
       // Add more New Horizon College images here:
       // { "imageLink": "https://raw.githubusercontent.com/...", "season": "Winter", "shotOn": "Samsung S24+" },
+    ],
+
+      "Bengaluru": [
+      {
+        "imageLink": "https://raw.githubusercontent.com/rev2205/picss/main/20260504_184724.jpg",
+        "season": "Summer",
+        "shotOn": "Samsung S24+"
+      }
+      // Add more New Horizon College images here:
+      // { "imageLink": "https://raw.githubusercontent.com/...", "season": "Winter", "shotOn": "Samsung S24+" },
     ]
     // Add more locations here:
     // "Mysuru": [
